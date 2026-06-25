@@ -1,6 +1,3 @@
-# murilomargotti
-About me
-
 # Hi, I'm Murilo Margotti 👋
 
 I'm a Software Engineering student from Criciúma, Santa Catarina, Brazil.
